@@ -213,7 +213,7 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-	<repositories>
+	<!-- <repositories>
 		<repository>
 			<id>nexus</id>
 			<name>nexus</name>
@@ -238,5 +238,5 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</pluginRepository>
-	</pluginRepositories>
+	</pluginRepositories> -->
 </project>
