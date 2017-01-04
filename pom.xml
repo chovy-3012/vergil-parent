@@ -213,11 +213,11 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-	<!-- <repositories>
+	 <repositories>
 		<repository>
 			<id>nexus</id>
 			<name>nexus</name>
-			<url>http://maven.oschina.net/content/groups/public/</url>
+			<url>http://maven.aliyun.com/content/groups/public/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
@@ -230,7 +230,7 @@
 		<pluginRepository>
 			<id>nexus</id>
 			<name>nexus</name>
-			<url>http://maven.oschina.net/content/groups/public/</url>
+			<url>http://maven.aliyun.com/content/groups/public/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
@@ -238,5 +238,5 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</pluginRepository>
-	</pluginRepositories> -->
+	</pluginRepositories> 
 </project>
